@@ -3,3 +3,4 @@ langchain
 langchain[community]
 unstructured
 pypdf2
+sentence-transformers
